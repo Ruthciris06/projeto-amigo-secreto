@@ -1,8 +1,11 @@
-![Logo](https://ibb.co/Z6v0pR1M)
+<a href="https://ibb.co/Z6v0pR1M"><img src="https://i.ibb.co/rGqVRKfw/file-YKtt-Gb-EE7rp3orziq-Xxy-SQ-1-1.webp" alt="file-YKtt-Gb-EE7rp3orziq-Xxy-SQ-1-1" width="250" border="0"></a>
+---
 
-# 🎁 Amigo Secreto
+# 🎁 Jogo do Amigo Secreto
 
 Um site interativo e divertido para organizar um sorteio de Amigo Secreto! Adicione os participantes, embaralhe os nomes e descubra quem será seu amigo secreto de maneira fácil e intuitiva.
+
+---
 
 ## 📌 Índice
 
@@ -22,15 +25,16 @@ Um site interativo e divertido para organizar um sorteio de Amigo Secreto! Adici
 
 Aqui está uma prévia do funcionamento do projeto:
 
-![Imagem de Demonstração](https://ibb.co/4g4xpC6L)
+<a href="https://ibb.co/4g4xpC6L"><img src="https://i.ibb.co/gFtCJQ58/chrome-capture-2025-3-4-2.png" alt="chrome-capture-2025-3-4-2" border="0"></a>
 
+---
 
 ## 🚀 Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - 🌐 **HTML** - Estruturação da página
-- 🎨 **CSS** - Estilização e responsividade
+- 🎨 **CSS** - Estilização 
 - ⚡ **JavaScript** - Lógica do sorteio e manipulação da interface
 
 Ferramentas adicionais:
@@ -83,9 +87,14 @@ Se estiver utilizando o VS Code:
 O design do projeto foi inspirado em interfaces modernas, trazendo uma experiência fluida e intuitiva.
 
 🔹 **Cores Utilizadas:**  
-🎨 Azul (#407BFF) – Destaques  
-🎨 Branco (#F9F9F9) – Fundo  
-🎨 Cinza (#BDBDBD) – Detalhes  
+
+- 🎨 Azul escuro (#0D214F)  
+- 🎨 Bege (#F5DEB3)
+- 🎨 Cinza claro (#C4C4C4) 
+- 🎨 Roxo escuro (#8B008B) 
+- 🎨 Roxo vibrante: rgb(172, 0, 172)
+- 🎨 Cinza escuro (#444444)
+- 🎨 Branco (#FFFFFF)
 
 💡 **Tipografia Principal:** Inter, sans-serif  
 
@@ -138,4 +147,4 @@ Fique à vontade para contribuir com melhorias no projeto!
 
 Este projeto está sob a licença MIT. Sinta-se livre para utilizá-lo e modificá-lo conforme necessário.
 
-📌 **Feito com ❤️ por [](https://github.com/seu-usuario)**
+📌 **Feito com ❤️ por [Ruthciris] (https://github.com/Ruthciris06)**
